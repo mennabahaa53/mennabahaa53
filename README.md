@@ -3,9 +3,7 @@
 ### Hi there! I'm a passionate Deep Learning Engineer. Welcome to my GitHub profile!
 
 <p align=middle>
-  <div class="banner-container">
-        <img src="https://www.canva.com/design/DAGKuQv3GQA/4p-3Ma30wTc8rR6Uje9Rmw/view?utm_content=DAGKuQv3GQA&utm_campaign=designshare&utm_medium=link&utm_source=editor"alt="Profile Banner" class="profile-banner">
-    </div>
+        <img src="https://github.com/mennabahaa53/mennabahaa53/blob/main/Menna-tullah%20Bahaa.jpg">
 </p>
 ---
 
