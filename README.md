@@ -44,8 +44,7 @@ Here are some of my favorite projects:
    - A new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price
    - Key technologies used: Python using pandas, jason, yfinance.
 4. **[QR Code Generation and Tracking System](https://github.com/mennabahaa53/QR-Code-Generator)**
-   - A new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price
-   - Key technologies used: Python using pandas, jason, yfinance.
+   - Generating and managing QR codes that can only be used once.
   
    
 
