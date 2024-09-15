@@ -43,7 +43,7 @@ Here are some of my favorite projects:
 3. **[Extract-stock-Data-using-python](https://github.com/mennabahaa53/Extract-stock-Data-using-python)**
    - A new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price
    - Key technologies used: Python using pandas, jason, yfinance.
-4. **[Extract-stock-Data-using-python](https://github.com/mennabahaa53/QR-Code-Generator)**
+4. **[QR Code Generation and Tracking System](https://github.com/mennabahaa53/QR-Code-Generator)**
    - A new startup investment firm that helps customers invest their money in stocks. Your job is to extract financial data like historical share price
    - Key technologies used: Python using pandas, jason, yfinance.
   
