@@ -46,6 +46,9 @@ Here are some of my favorite projects:
 4. **[QR Code Generation and Tracking System](https://github.com/mennabahaa53/QR-Code-Generator)**
    - Generating and managing QR codes that can only be used once.
   
+5. **[Intelligent Document Search](https://github.com/mennabahaa53/Intelligent-Document-Search/tree/main)**
+   - An interactive Question-Answering app that lets you upload any document (PDF, DOCX, TXT) and ask natural language questions. The system extracts text, chunks it, builds embeddings, stores them in a FAISS vector index, and retrieves relevant context to generate answers using Hugging Face Transformers.
+  
    
 
 ---
