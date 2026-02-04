@@ -1,29 +1,32 @@
-# Menna-Tullah Bahaa👩‍💻
+# Hi, I'm Menna-Tullah Bahaa 👋👩‍💻
 
-### Hi there! I'm a passionate Deep Learning Engineer. Welcome to my GitHub profile!
+## Software Testing & Application Support Engineer
 
-<p align=middle>
-        <img src="">
-</p>
----
-
-### About Me
-
-- 🌟 **Passionate Deep Learning Engineer**
-- 📚 Constantly learning and improving my skills
-- 🔭 Working on exciting projects
-- 🌍 Based in Egypt, New Cairo
-
----
+I am a passionate QA professional with hands-on experience in:
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Regression Testing
+- Application Support
 
 ### Skills
+- Manual Testing (Functional, UI, Regression)
+- Test Documentation (Test Plan, Test Cases, RTM)
+- Bug Tracking (JIRA style)
+- SQL (basic)
+- GitHub
 
-- **Programming Languages:** Python
-- **Web Development:** Flask, HTML, CSS
-- **Data Analysis:** Pandas, NumPy, Matplotlib
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Database:** MySQL, SQL
-- **Tools & Platforms:** GitHub
+### Tools
+- JIRA
+- Excel / Google Sheets
+- Chrome DevTools
+- Postman (basic)
+
+### Projects
+- E-commerce Manual Testing Project (Demoblaze)
+
+### Career Goal
+To grow as a Software Testing & Application Support Engineer in a product-based or service-based company.
 
 ---
 
@@ -32,9 +35,8 @@
 Here are some of my favorite projects:
 
 1. **[Ecommerce Manual Testing For Demoblaze](https://github.com/mennabahaa53/ecommerce-manual-testing-demoblaze/tree/main)**
-   -This project demonstrates manual testing of an e-commerce web application using the Demoblaze demo website.
-
-        The purpose of this project is to showcase practical QA skills including:
+   - This project demonstrates manual testing of an e-commerce web application using the Demoblaze demo website.
+   - The purpose of this project is to showcase practical QA skills including:
         - Test planning
         - Test case design
         - Bug reporting
