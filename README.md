@@ -21,6 +21,8 @@ I am a passionate QA professional with hands-on experience in:
 - Excel / Google Sheets
 - Chrome DevTools
 - Postman (basic)
+- Database
+- Linux
 
 ### Projects
 - E-commerce Manual Testing Project (Demoblaze)
