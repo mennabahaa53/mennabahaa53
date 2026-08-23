@@ -15,6 +15,8 @@ I am a passionate QA professional with hands-on experience in:
 - Bug Tracking (JIRA style)
 - SQL (basic)
 - GitHub
+- pytest
+- Selenium
 
 ### Tools
 - JIRA
@@ -23,6 +25,7 @@ I am a passionate QA professional with hands-on experience in:
 - Postman (basic)
 - Database
 - Linux
+- Visual Studio Code
 
 ### Projects
 - E-commerce Manual Testing Project (Demoblaze)
