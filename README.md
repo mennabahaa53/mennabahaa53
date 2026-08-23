@@ -1,6 +1,6 @@
 # Hi, I'm Menna-Tullah Bahaa 👋👩‍💻
 
-## Software Testing & Application Support Engineer
+## AI Automation Testing Engineer
 
 I am a passionate QA professional with hands-on experience in:
 - Manual Testing
